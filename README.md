@@ -2,7 +2,7 @@
 
 ### This Bot Is Made for Chat and Many Options
 
-**This Bot Is Made With Python 3.6 
+**This Bot Is Made With Python 3.6**
 
 Start With **!hello**
 
